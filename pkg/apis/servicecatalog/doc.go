@@ -16,6 +16,6 @@ limitations under the License.
 
 // +k8s:defaulter-gen=TypeMeta
 // +k8s:deepcopy-gen=package,register
-
 // +groupName=
+
 package servicecatalog
